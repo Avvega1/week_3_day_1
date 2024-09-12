@@ -178,21 +178,33 @@ print(f"{number1},{number2},{number3},{number4},{number5}")
 
 ##########################################################################################
 # #addition
+print(2+1)
 # #multiplication
+print(2*2)
 # #division
+print(3/2)
 # #modulo
+print(7%4)
 # #powers
+print(2**3)
 # #get the max and min of a number
+print(max(1,2))
+print(min(1,2))
 # #round a number
+print(round(2.65))
 # # absolute value
+print(abs(-3))
 # # order of operations
+print(2+10+10+3)
 # #to do more you need to import special math libraries from python
-# #from math import *    
+from math import *    
 # #this goes out and grabs some different math functions we can use
 # #floor method
+print(floor(3.7))
 # #ceil method
+print(ceil(3.7))
 # #sqrt method
-
+print(sqrt(36))
 
 
 
@@ -211,14 +223,25 @@ print(f"{number1},{number2},{number3},{number4},{number5}")
 # # **Getting Input from users**
 # #how do we get input from users?
 # input("what is your name?")
+name = input("what is your name")
+print("hello" + name)
 # # basic math calculator
 # #ask the user for 2 numbers
+num1 = int(input("enter a number: "))
+num2 = int(input("enter another number: "))
 # # print out a statement where you:
 # # add them together
+print(num1 + num2)
 # #multiply
+print(num1*num2)
 # # find the max number
+print(max(num1,num2))
+print(min(num1,num2))
 # # find the remainder of the numbers
+print(num1%num2)
+print(num2%num1)
 # #round one number
+print(round(num1))
 
 
 
