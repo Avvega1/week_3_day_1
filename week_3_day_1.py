@@ -56,9 +56,9 @@ name = "Adrian"
 # 3. song
 song = "BRUCE WAYNE"
 # 4. food
-food = "Caniac Combo Extra Texas Toast and Cup of Sauce"
+food = "A Caniac Combo with Extra Texas Toast and Cup of Sauce"
 # 5. number
-number = "11"
+number = "1,000,000"
 
 
 # #now include the variables you just made print in the following...
@@ -113,13 +113,13 @@ print(f"{number1},{number2},{number3},{number4},{number5}")
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# email_address
+# percent
+# variable_name
+# Zero
+# list_of_numbers
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -140,10 +140,10 @@ print(f"{number1},{number2},{number3},{number4},{number5}")
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_variable
+# email_address
+# percentage
+# illinois
 
 
 
